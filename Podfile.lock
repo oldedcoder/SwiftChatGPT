@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.6.2)
+  - SQLiteRepairKit (1.2.2):
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - SwiftyJSON (4.3.0)
+  - WCDB.swift (1.0.8.2):
+    - SQLiteRepairKit (~> 1.2.0)
+    - WCDBOptimizedSQLCipher (~> 1.2.0)
+  - WCDBOptimizedSQLCipher (1.2.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON (~> 4.0)
+  - WCDB.swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SQLiteRepairKit
+    - SwiftyJSON
+    - WCDB.swift
+    - WCDBOptimizedSQLCipher
+  trunk:
+    - Alamofire
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  SQLiteRepairKit: 35aaae5a8838adb85f5b1eb4d796055be6060a4b
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  WCDB.swift: 05d509d7a0e60fb6e11c34eb7e4027c0fab5849f
+  WCDBOptimizedSQLCipher: baf44493b0c7a3d49e97bc5b64a3856f6428ddd1
+
+PODFILE CHECKSUM: e41a75e6a2aca05c99e678c387252d26dce6c2d6
+
+COCOAPODS: 1.11.3
